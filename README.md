@@ -46,11 +46,13 @@ print(y_predicted)
 plt.scatter(x,y,color='green')
 plt.plot(x,y_predicted,color='red')
 plt.show()
+print(m*3+b)
 ```
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/95dcfacc-7002-4e4b-82c7-86d565e2bb18)
+![image](https://github.com/user-attachments/assets/37f6814a-25f1-417a-a596-5f94dbf82f8a)
+
 
 
 ## Result:
